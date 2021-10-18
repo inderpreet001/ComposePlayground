@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Compose Playground</string>
+    <string name="title_activity_single_component_state">SingleComponentStateActivity</string>
+    <string name="title_activity_multi_component_state">MultiComponentStateActivity</string>
 </resources>
